@@ -1,3 +1,4 @@
+![logo](https://github.com/shirisha34/shirisha34/blob/main/bannergitgub.jpg)
 <h1 align="center">Hi 👋, I'm Guguloth Shirisha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
